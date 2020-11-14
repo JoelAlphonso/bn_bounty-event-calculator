@@ -1,5 +1,5 @@
 ---
- name: 'Battle Night : Bounty Event Calculator'
+ name: Battle Night - Bounty Event Calculator
  description: Helps calculate the needed bounty rolls to attain a said goal with said resources.
  authors:
    - Joel Alphonso
